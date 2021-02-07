@@ -42,7 +42,7 @@ struct DetailMovieView: View {
                                     .offset(x: 130, y: 93)
                                     .onTapGesture {
                                         self.selectedTrailer = trailer
-                                    }
+                                }
                             }
                         }
                     }
